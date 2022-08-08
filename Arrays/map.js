@@ -19,3 +19,5 @@ console.log(newData, "newdata");
 
 //Q1) Do the map method manipultaion/updating the original? Explian(tpe the answer in comments mode) with briefly?
 //Q2) What rae the different ways to execute a js file? Which way is best?
+
+//Answers
