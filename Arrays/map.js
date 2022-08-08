@@ -21,3 +21,6 @@ console.log(newData, "newdata");
 //Q2) What rae the different ways to execute a js file? Which way is best?
 
 //Answers
+
+// 1) no,it doen't modifies the original array,it will returns a new array
+// 2) a.using node filename , b.within body and in head tags -- using script tag src attribute
